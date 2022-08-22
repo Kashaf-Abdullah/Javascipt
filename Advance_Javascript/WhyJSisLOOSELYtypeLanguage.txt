@@ -1,0 +1,3 @@
+JAVACRIPT  is weekly typed language or we can say loosely type language
+because as we know in javascript ,we can add any type of data in any variable .We don't need
+to declare their datatype like we declare in C++,Java 

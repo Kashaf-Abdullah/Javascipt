@@ -1,0 +1,14 @@
+What is ES6,ES7,ES8 
+
+An organization that creates standards for technologies
+
+--->ECMA-262
+ECMA Script that provides rules ,detail, and guidelines that a scripting languagemust observe to be considered ECMAScript complaint
+(Javascipt ecmascript ko follow krke banaya hai)
+ecmascript used to make languages
+
+ES6 and ES2015 are two different name but for the same thing
+//for more information go on
+Javascript refrence 
+
+ECMA SCRIPT
